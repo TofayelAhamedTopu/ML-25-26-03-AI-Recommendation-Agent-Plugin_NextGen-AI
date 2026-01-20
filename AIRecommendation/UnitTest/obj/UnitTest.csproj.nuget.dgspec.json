@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\Project\\se-cloud-2025-2026\\Source\\ML-25-26-03-AI-Recommendation-Agent-Plugin\\AIRecommendation\\UnitTest\\UnitTest.csproj": {}
+    "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\UnitTest\\UnitTest.csproj": {}
   },
   "projects": {
-    "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\Project\\se-cloud-2025-2026\\Source\\ML-25-26-03-AI-Recommendation-Agent-Plugin\\AIRecommendation\\UnitTest\\UnitTest.csproj": {
+    "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\UnitTest\\UnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\Project\\se-cloud-2025-2026\\Source\\ML-25-26-03-AI-Recommendation-Agent-Plugin\\AIRecommendation\\UnitTest\\UnitTest.csproj",
+        "projectUniqueName": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\UnitTest\\UnitTest.csproj",
         "projectName": "UnitTest",
-        "projectPath": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\Project\\se-cloud-2025-2026\\Source\\ML-25-26-03-AI-Recommendation-Agent-Plugin\\AIRecommendation\\UnitTest\\UnitTest.csproj",
+        "projectPath": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\UnitTest\\UnitTest.csproj",
         "packagesPath": "C:\\Users\\Tofayel_Topu\\.nuget\\packages\\",
-        "outputPath": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\Project\\se-cloud-2025-2026\\Source\\ML-25-26-03-AI-Recommendation-Agent-Plugin\\AIRecommendation\\UnitTest\\obj\\",
+        "outputPath": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\UnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -54,6 +54,20 @@
             "MSTest": {
               "target": "Package",
               "version": "[4.0.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[18.0.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
             }
           },
           "imports": [

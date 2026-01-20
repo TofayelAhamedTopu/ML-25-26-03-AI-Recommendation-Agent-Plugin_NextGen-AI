@@ -1,0 +1,6 @@
+E:\M.Eng IT\3.1 Semester Winter 25-26\SE\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\AIRecommendation\AIRecommendation\obj\Debug\net10.0\AIRecommendation.csproj.AssemblyReference.cache
+E:\M.Eng IT\3.1 Semester Winter 25-26\SE\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\AIRecommendation\AIRecommendation\obj\Debug\net10.0\AIRecommendation.GeneratedMSBuildEditorConfig.editorconfig
+E:\M.Eng IT\3.1 Semester Winter 25-26\SE\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\AIRecommendation\AIRecommendation\obj\Debug\net10.0\AIRecommendation.AssemblyInfoInputs.cache
+E:\M.Eng IT\3.1 Semester Winter 25-26\SE\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\AIRecommendation\AIRecommendation\obj\Debug\net10.0\AIRecommendation.AssemblyInfo.cs
+E:\M.Eng IT\3.1 Semester Winter 25-26\SE\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\AIRecommendation\AIRecommendation\obj\Debug\net10.0\AIRecommendation.csproj.CoreCompileInputs.cache
+E:\M.Eng IT\3.1 Semester Winter 25-26\SE\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\AIRecommendation\AIRecommendation\obj\Debug\net10.0\AIRecommendation.sourcelink.json

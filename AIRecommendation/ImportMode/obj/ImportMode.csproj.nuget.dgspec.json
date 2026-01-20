@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\Project\\se-cloud-2025-2026\\Source\\ML-25-26-03-AI-Recommendation-Agent-Plugin\\AIRecommendation\\ImportMode\\ImportMode.csproj": {}
+    "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\ImportMode\\ImportMode.csproj": {}
   },
   "projects": {
-    "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\Project\\se-cloud-2025-2026\\Source\\ML-25-26-03-AI-Recommendation-Agent-Plugin\\AIRecommendation\\ImportMode\\ImportMode.csproj": {
+    "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\ImportMode\\ImportMode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\Project\\se-cloud-2025-2026\\Source\\ML-25-26-03-AI-Recommendation-Agent-Plugin\\AIRecommendation\\ImportMode\\ImportMode.csproj",
+        "projectUniqueName": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\ImportMode\\ImportMode.csproj",
         "projectName": "ImportMode",
-        "projectPath": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\Project\\se-cloud-2025-2026\\Source\\ML-25-26-03-AI-Recommendation-Agent-Plugin\\AIRecommendation\\ImportMode\\ImportMode.csproj",
+        "projectPath": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\ImportMode\\ImportMode.csproj",
         "packagesPath": "C:\\Users\\Tofayel_Topu\\.nuget\\packages\\",
-        "outputPath": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\Project\\se-cloud-2025-2026\\Source\\ML-25-26-03-AI-Recommendation-Agent-Plugin\\AIRecommendation\\ImportMode\\obj\\",
+        "outputPath": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\ImportMode\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,6 +50,40 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[33.1.0, )"
+            },
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[3.4.1, )"
+            },
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[10.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[10.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[10.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[10.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[10.0.2, )"
+            },
+            "PdfPig": {
+              "target": "Package",
+              "version": "[0.1.13, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

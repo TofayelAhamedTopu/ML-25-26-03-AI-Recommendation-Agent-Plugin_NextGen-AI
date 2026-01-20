@@ -1,22 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\Project\\se-cloud-2025-2026\\Source\\ML-25-26-03-AI-Recommendation-Agent-Plugin\\AIRecommendation\\",
+  "WorkspaceRootPath": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6F190E7-B675-6E01-F209-BD476091BC92}|UnitTest\\UnitTest.csproj|e:\\m.eng it\\3.1 semester winter 25-26\\se\\project\\se-cloud-2025-2026\\source\\ml-25-26-03-ai-recommendation-agent-plugin\\airecommendation\\unittest\\test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6F190E7-B675-6E01-F209-BD476091BC92}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{52707411-7D7B-B925-FA16-9760FA02EBE9}|AIRecommendation\\AIRecommendation.csproj|e:\\m.eng it\\3.1 semester winter 25-26\\se\\ml-25-26-03-ai-recommendation-agent-plugin_nextgen-ai\\airecommendation\\airecommendation\\airecommendation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{52707411-7D7B-B925-FA16-9760FA02EBE9}|AIRecommendation\\AIRecommendation.csproj|solutionrelative:airecommendation\\airecommendation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6F190E7-B675-6E01-F209-BD476091BC92}|UnitTest\\UnitTest.csproj|e:\\m.eng it\\3.1 semester winter 25-26\\se\\project\\se-cloud-2025-2026\\source\\ml-25-26-03-ai-recommendation-agent-plugin\\airecommendation\\unittest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6F190E7-B675-6E01-F209-BD476091BC92}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11DE2400-B2C2-6E91-21EF-3E66E7273439}|ImportMode\\ImportMode.csproj|e:\\m.eng it\\3.1 semester winter 25-26\\se\\ml-25-26-03-ai-recommendation-agent-plugin_nextgen-ai\\airecommendation\\importmode\\importmode.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11DE2400-B2C2-6E91-21EF-3E66E7273439}|ImportMode\\ImportMode.csproj|solutionrelative:importmode\\importmode.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11DE2400-B2C2-6E91-21EF-3E66E7273439}|ImportMode\\ImportMode.csproj|e:\\m.eng it\\3.1 semester winter 25-26\\se\\project\\se-cloud-2025-2026\\source\\ml-25-26-03-ai-recommendation-agent-plugin\\airecommendation\\importmode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{11DE2400-B2C2-6E91-21EF-3E66E7273439}|ImportMode\\ImportMode.csproj|e:\\m.eng it\\3.1 semester winter 25-26\\se\\ml-25-26-03-ai-recommendation-agent-plugin_nextgen-ai\\airecommendation\\importmode\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11DE2400-B2C2-6E91-21EF-3E66E7273439}|ImportMode\\ImportMode.csproj|solutionrelative:importmode\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DE2400-B2C2-6E91-21EF-3E66E7273439}|ImportMode\\ImportMode.csproj|e:\\m.eng it\\3.1 semester winter 25-26\\se\\ml-25-26-03-ai-recommendation-agent-plugin_nextgen-ai\\airecommendation\\importmode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11DE2400-B2C2-6E91-21EF-3E66E7273439}|ImportMode\\ImportMode.csproj|solutionrelative:importmode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52707411-7D7B-B925-FA16-9760FA02EBE9}|AIRecommendation\\AIRecommendation.csproj|e:\\m.eng it\\3.1 semester winter 25-26\\se\\project\\se-cloud-2025-2026\\source\\ml-25-26-03-ai-recommendation-agent-plugin\\airecommendation\\airecommendation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52707411-7D7B-B925-FA16-9760FA02EBE9}|AIRecommendation\\AIRecommendation.csproj|e:\\m.eng it\\3.1 semester winter 25-26\\se\\ml-25-26-03-ai-recommendation-agent-plugin_nextgen-ai\\airecommendation\\airecommendation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52707411-7D7B-B925-FA16-9760FA02EBE9}|AIRecommendation\\AIRecommendation.csproj|solutionrelative:airecommendation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52707411-7D7B-B925-FA16-9760FA02EBE9}|AIRecommendation\\AIRecommendation.csproj|e:\\m.eng it\\3.1 semester winter 25-26\\se\\ml-25-26-03-ai-recommendation-agent-plugin_nextgen-ai\\airecommendation\\airecommendation\\dbstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52707411-7D7B-B925-FA16-9760FA02EBE9}|AIRecommendation\\AIRecommendation.csproj|solutionrelative:airecommendation\\dbstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DE2400-B2C2-6E91-21EF-3E66E7273439}|ImportMode\\ImportMode.csproj|e:\\m.eng it\\3.1 semester winter 25-26\\se\\ml-25-26-03-ai-recommendation-agent-plugin_nextgen-ai\\airecommendation\\importmode\\openaiembeddings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DE2400-B2C2-6E91-21EF-3E66E7273439}|ImportMode\\ImportMode.csproj|solutionrelative:importmode\\openaiembeddings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DE2400-B2C2-6E91-21EF-3E66E7273439}|ImportMode\\ImportMode.csproj|e:\\m.eng it\\3.1 semester winter 25-26\\se\\ml-25-26-03-ai-recommendation-agent-plugin_nextgen-ai\\airecommendation\\importmode\\moviecsvrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DE2400-B2C2-6E91-21EF-3E66E7273439}|ImportMode\\ImportMode.csproj|solutionrelative:importmode\\moviecsvrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F190E7-B675-6E01-F209-BD476091BC92}|UnitTest\\UnitTest.csproj|e:\\m.eng it\\3.1 semester winter 25-26\\se\\ml-25-26-03-ai-recommendation-agent-plugin_nextgen-ai\\airecommendation\\unittest\\vectormathtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F190E7-B675-6E01-F209-BD476091BC92}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\vectormathtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F190E7-B675-6E01-F209-BD476091BC92}|UnitTest\\UnitTest.csproj|e:\\m.eng it\\3.1 semester winter 25-26\\se\\ml-25-26-03-ai-recommendation-agent-plugin_nextgen-ai\\airecommendation\\unittest\\chunkertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F190E7-B675-6E01-F209-BD476091BC92}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\chunkertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52707411-7D7B-B925-FA16-9760FA02EBE9}|AIRecommendation\\AIRecommendation.csproj|e:\\m.eng it\\3.1 semester winter 25-26\\se\\ml-25-26-03-ai-recommendation-agent-plugin_nextgen-ai\\airecommendation\\airecommendation\\agentrouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52707411-7D7B-B925-FA16-9760FA02EBE9}|AIRecommendation\\AIRecommendation.csproj|solutionrelative:airecommendation\\agentrouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52707411-7D7B-B925-FA16-9760FA02EBE9}|AIRecommendation\\AIRecommendation.csproj|e:\\m.eng it\\3.1 semester winter 25-26\\se\\ml-25-26-03-ai-recommendation-agent-plugin_nextgen-ai\\airecommendation\\airecommendation\\openaiembeddings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52707411-7D7B-B925-FA16-9760FA02EBE9}|AIRecommendation\\AIRecommendation.csproj|solutionrelative:airecommendation\\openaiembeddings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52707411-7D7B-B925-FA16-9760FA02EBE9}|AIRecommendation\\AIRecommendation.csproj|e:\\m.eng it\\3.1 semester winter 25-26\\se\\ml-25-26-03-ai-recommendation-agent-plugin_nextgen-ai\\airecommendation\\airecommendation\\vectormath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52707411-7D7B-B925-FA16-9760FA02EBE9}|AIRecommendation\\AIRecommendation.csproj|solutionrelative:airecommendation\\vectormath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52707411-7D7B-B925-FA16-9760FA02EBE9}|AIRecommendation\\AIRecommendation.csproj|e:\\m.eng it\\3.1 semester winter 25-26\\se\\ml-25-26-03-ai-recommendation-agent-plugin_nextgen-ai\\airecommendation\\airecommendation\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52707411-7D7B-B925-FA16-9760FA02EBE9}|AIRecommendation\\AIRecommendation.csproj|solutionrelative:airecommendation\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DE2400-B2C2-6E91-21EF-3E66E7273439}|ImportMode\\ImportMode.csproj|e:\\m.eng it\\3.1 semester winter 25-26\\se\\ml-25-26-03-ai-recommendation-agent-plugin_nextgen-ai\\airecommendation\\importmode\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DE2400-B2C2-6E91-21EF-3E66E7273439}|ImportMode\\ImportMode.csproj|solutionrelative:importmode\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 202,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,53 +78,202 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Test2.cs",
-              "DocumentMoniker": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\Project\\se-cloud-2025-2026\\Source\\ML-25-26-03-AI-Recommendation-Agent-Plugin\\AIRecommendation\\UnitTest\\Test2.cs",
-              "RelativeDocumentMoniker": "UnitTest\\Test2.cs",
-              "ToolTip": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\Project\\se-cloud-2025-2026\\Source\\ML-25-26-03-AI-Recommendation-Agent-Plugin\\AIRecommendation\\UnitTest\\Test2.cs",
-              "RelativeToolTip": "UnitTest\\Test2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T01:26:28.276Z",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\ImportMode\\appsettings.json",
+              "RelativeDocumentMoniker": "ImportMode\\appsettings.json",
+              "ToolTip": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\ImportMode\\appsettings.json",
+              "RelativeToolTip": "ImportMode\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-20T00:10:39.54Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Test1.cs",
-              "DocumentMoniker": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\Project\\se-cloud-2025-2026\\Source\\ML-25-26-03-AI-Recommendation-Agent-Plugin\\AIRecommendation\\UnitTest\\Test1.cs",
-              "RelativeDocumentMoniker": "UnitTest\\Test1.cs",
-              "ToolTip": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\Project\\se-cloud-2025-2026\\Source\\ML-25-26-03-AI-Recommendation-Agent-Plugin\\AIRecommendation\\UnitTest\\Test1.cs",
-              "RelativeToolTip": "UnitTest\\Test1.cs",
+              "Title": "ImportMode",
+              "DocumentMoniker": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\ImportMode\\ImportMode.csproj",
+              "RelativeDocumentMoniker": "ImportMode\\ImportMode.csproj",
+              "ToolTip": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\ImportMode\\ImportMode.csproj",
+              "RelativeToolTip": "ImportMode\\ImportMode.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T00:56:06.904Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-20T00:02:35.063Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\Project\\se-cloud-2025-2026\\Source\\ML-25-26-03-AI-Recommendation-Agent-Plugin\\AIRecommendation\\ImportMode\\Program.cs",
-              "RelativeDocumentMoniker": "ImportMode\\Program.cs",
-              "ToolTip": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\Project\\se-cloud-2025-2026\\Source\\ML-25-26-03-AI-Recommendation-Agent-Plugin\\AIRecommendation\\ImportMode\\Program.cs",
-              "RelativeToolTip": "ImportMode\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "DbStore.cs",
+              "DocumentMoniker": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\AIRecommendation\\DbStore.cs",
+              "RelativeDocumentMoniker": "AIRecommendation\\DbStore.cs",
+              "ToolTip": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\AIRecommendation\\DbStore.cs",
+              "RelativeToolTip": "AIRecommendation\\DbStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T00:48:19.891Z"
+              "WhenOpened": "2026-01-19T23:53:29.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\AIRecommendation\\Program.cs",
+              "RelativeDocumentMoniker": "AIRecommendation\\Program.cs",
+              "ToolTip": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\AIRecommendation\\Program.cs",
+              "RelativeToolTip": "AIRecommendation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T23:44:34.895Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\Project\\se-cloud-2025-2026\\Source\\ML-25-26-03-AI-Recommendation-Agent-Plugin\\AIRecommendation\\AIRecommendation\\Program.cs",
-              "RelativeDocumentMoniker": "AIRecommendation\\Program.cs",
-              "ToolTip": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\Project\\se-cloud-2025-2026\\Source\\ML-25-26-03-AI-Recommendation-Agent-Plugin\\AIRecommendation\\AIRecommendation\\Program.cs",
-              "RelativeToolTip": "AIRecommendation\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\ImportMode\\Program.cs",
+              "RelativeDocumentMoniker": "ImportMode\\Program.cs",
+              "ToolTip": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\ImportMode\\Program.cs",
+              "RelativeToolTip": "ImportMode\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T00:47:34.845Z"
+              "WhenOpened": "2026-01-20T00:12:16.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AIRecommendation.csproj",
+              "DocumentMoniker": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\AIRecommendation\\AIRecommendation.csproj",
+              "RelativeDocumentMoniker": "AIRecommendation\\AIRecommendation.csproj",
+              "ToolTip": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\AIRecommendation\\AIRecommendation.csproj",
+              "RelativeToolTip": "AIRecommendation\\AIRecommendation.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-19T23:35:50.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OpenAIEmbeddings.cs",
+              "DocumentMoniker": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\ImportMode\\OpenAIEmbeddings.cs",
+              "RelativeDocumentMoniker": "ImportMode\\OpenAIEmbeddings.cs",
+              "ToolTip": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\ImportMode\\OpenAIEmbeddings.cs",
+              "RelativeToolTip": "ImportMode\\OpenAIEmbeddings.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T23:35:50.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChunkerTests.cs",
+              "DocumentMoniker": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\UnitTest\\ChunkerTests.cs",
+              "RelativeDocumentMoniker": "UnitTest\\ChunkerTests.cs",
+              "ToolTip": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\UnitTest\\ChunkerTests.cs",
+              "RelativeToolTip": "UnitTest\\ChunkerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T23:35:50.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VectorMathTests.cs",
+              "DocumentMoniker": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\UnitTest\\VectorMathTests.cs",
+              "RelativeDocumentMoniker": "UnitTest\\VectorMathTests.cs",
+              "ToolTip": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\UnitTest\\VectorMathTests.cs",
+              "RelativeToolTip": "UnitTest\\VectorMathTests.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T23:35:50.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MovieCsvRow.cs",
+              "DocumentMoniker": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\ImportMode\\MovieCsvRow.cs",
+              "RelativeDocumentMoniker": "ImportMode\\MovieCsvRow.cs",
+              "ToolTip": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\ImportMode\\MovieCsvRow.cs",
+              "RelativeToolTip": "ImportMode\\MovieCsvRow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T23:35:50.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AgentRouter.cs",
+              "DocumentMoniker": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\AIRecommendation\\AgentRouter.cs",
+              "RelativeDocumentMoniker": "AIRecommendation\\AgentRouter.cs",
+              "ToolTip": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\AIRecommendation\\AgentRouter.cs",
+              "RelativeToolTip": "AIRecommendation\\AgentRouter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T23:35:50.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OpenAIEmbeddings.cs",
+              "DocumentMoniker": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\AIRecommendation\\OpenAIEmbeddings.cs",
+              "RelativeDocumentMoniker": "AIRecommendation\\OpenAIEmbeddings.cs",
+              "ToolTip": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\AIRecommendation\\OpenAIEmbeddings.cs",
+              "RelativeToolTip": "AIRecommendation\\OpenAIEmbeddings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T23:35:50.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VectorMath.cs",
+              "DocumentMoniker": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\AIRecommendation\\VectorMath.cs",
+              "RelativeDocumentMoniker": "AIRecommendation\\VectorMath.cs",
+              "ToolTip": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\AIRecommendation\\VectorMath.cs",
+              "RelativeToolTip": "AIRecommendation\\VectorMath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T23:35:50.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Models.cs",
+              "DocumentMoniker": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\AIRecommendation\\Models.cs",
+              "RelativeDocumentMoniker": "AIRecommendation\\Models.cs",
+              "ToolTip": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\AIRecommendation\\Models.cs",
+              "RelativeToolTip": "AIRecommendation\\Models.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T23:35:50.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Models.cs",
+              "DocumentMoniker": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\ImportMode\\Models.cs",
+              "RelativeDocumentMoniker": "ImportMode\\Models.cs",
+              "ToolTip": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\ImportMode\\Models.cs",
+              "RelativeToolTip": "ImportMode\\Models.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T23:35:50.471Z",
+              "EditorCaption": ""
             }
           ]
         }

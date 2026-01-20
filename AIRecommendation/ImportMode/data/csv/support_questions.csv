@@ -1,0 +1,21 @@
+﻿QuestionId,Category,Title,Problem,Symptoms,Causes,ResolutionSteps,Tags,Platform,URL
+Q001,Networking,No Internet Connection,User cannot access the internet,No connectivity; websites not loading,Router misconfiguration or ISP outage,Restart router; check cables; contact ISP,internet;network;router,Windows 11,https://support.example.com/q001
+Q002,Operating System,Windows Slow Performance,System performance is very slow,High CPU usage; lagging apps,Too many startup programs,Disable startup apps; run disk cleanup,windows;performance,Windows 10,https://support.example.com/q002
+Q003,Email,Emails Not Syncing,Emails are not syncing on device,Missing new emails,Incorrect account settings,Reconfigure email account; check sync settings,email;sync,Android,https://support.example.com/q003
+Q004,Software,Application Crash on Launch,Application crashes immediately,App closes unexpectedly,Corrupted installation,Reinstall application; update to latest version,crash;software,Windows 11,https://support.example.com/q004
+Q005,Hardware,Laptop Overheating,Laptop becomes very hot,Fan noise; sudden shutdown,Dust buildup or blocked vents,Clean vents; use cooling pad,overheating;hardware,Windows 11,https://support.example.com/q005
+Q006,Networking,WiFi Frequently Disconnects,WiFi drops connection intermittently,Connection loss; slow speed,Weak signal or interference,Move closer to router; change WiFi channel,wifi;network,macOS,https://support.example.com/q006
+Q007,Security,Forgot Windows Password,User cannot log into Windows,Login screen blocked,Forgotten password,Reset password using Microsoft account,password;security,Windows 11,https://support.example.com/q007
+Q008,Printer,Printer Not Responding,Printer does not print,Print jobs stuck offline,Driver issue or network problem,Reinstall printer driver; check network,printer;driver,Windows 10,https://support.example.com/q008
+Q009,Software,Microsoft Word Not Opening,Word fails to open documents,Error message on launch,Corrupted Office files,Repair Office installation,office;word,Windows 11,https://support.example.com/q009
+Q010,Storage,Low Disk Space,Disk space almost full,Storage warning alerts,Large temporary files,Delete temp files; uninstall unused apps,disk;storage,Windows 10,https://support.example.com/q010
+Q011,Mobile,Battery Drains Fast,Battery drains quickly,Battery percentage drops fast,Background apps running,Limit background apps; enable battery saver,battery;mobile,Android,https://support.example.com/q011
+Q012,Networking,VPN Not Connecting,VPN connection fails,Authentication error,Incorrect VPN credentials,Verify credentials; update VPN client,vpn;network,Windows 11,https://support.example.com/q012
+Q013,Account,Unable to Login to Portal,User cannot log in to web portal,Invalid credentials message,Incorrect username or password,Reset password; clear browser cache,login;account,Web,https://support.example.com/q013
+Q014,Audio,No Sound from Speakers,No audio output,Muted sound; no device detected,Incorrect audio settings,Set correct output device; update driver,audio;sound,Windows 10,https://support.example.com/q014
+Q015,Display,Screen Flickering,Screen flickers frequently,Visual disturbance,Outdated graphics driver,Update graphics driver,display;graphics,Windows 11,https://support.example.com/q015
+Q016,Software,Software License Error,License activation fails,Activation popup error,Invalid license key,Re-enter license key; contact vendor,license;software,Windows 11,https://support.example.com/q016
+Q017,Cloud,File Not Syncing to Cloud,Files not syncing,Synchronization paused,Poor internet connection,Check connection; restart sync client,cloud;sync,Windows 11,https://support.example.com/q017
+Q018,Browser,Browser Pages Not Loading,Web pages fail to load,Blank pages; timeout,Cache or DNS issue,Clear cache; flush DNS,browser;internet,Windows 10,https://support.example.com/q018
+Q019,Update,Windows Update Failed,Update does not install,Update error code,Corrupted update files,Run Windows Update Troubleshooter,update;windows,Windows 11,https://support.example.com/q019
+Q020,Hardware,Keyboard Not Working,Keyboard keys unresponsive,No typing input,Driver or hardware failure,Reconnect keyboard; update driver,keyboard;hardware,Windows 10,https://support.example.com/q020
