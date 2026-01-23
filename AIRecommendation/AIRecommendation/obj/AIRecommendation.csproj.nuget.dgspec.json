@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\AIRecommendation\\AIRecommendation.csproj": {}
+    "C:\\Users\\resta\\Downloads\\Software Demo\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\AIRecommendation\\AIRecommendation.csproj": {}
   },
   "projects": {
-    "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\AIRecommendation\\AIRecommendation.csproj": {
+    "C:\\Users\\resta\\Downloads\\Software Demo\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\AIRecommendation\\AIRecommendation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\AIRecommendation\\AIRecommendation.csproj",
+        "projectUniqueName": "C:\\Users\\resta\\Downloads\\Software Demo\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\AIRecommendation\\AIRecommendation.csproj",
         "projectName": "AIRecommendation",
-        "projectPath": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\AIRecommendation\\AIRecommendation.csproj",
-        "packagesPath": "C:\\Users\\Tofayel_Topu\\.nuget\\packages\\",
-        "outputPath": "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\AIRecommendation\\obj\\",
+        "projectPath": "C:\\Users\\resta\\Downloads\\Software Demo\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\AIRecommendation\\AIRecommendation.csproj",
+        "packagesPath": "C:\\Users\\resta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\resta\\Downloads\\Software Demo\\ML-25-26-03-AI-Recommendation-Agent-Plugin_NextGen-AI\\AIRecommendation\\AIRecommendation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Tofayel_Topu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\resta\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "E:\\M.Eng IT\\3.1 Semester Winter 25-26\\SE\\se-cloud-2025-2026\\MyWork\\EX10\\TestPackage": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\resta\\Downloads\\SE\\Temp\\TestPackages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

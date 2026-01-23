@@ -2,7 +2,7 @@
 
 public sealed class MovieCsvRow
 {
-    public string MovieId { get; set; } = "";
+    public string MovieId { get; set; } = "10";
     public string Title { get; set; } = "";
     public string Year { get; set; } = "";
     public string Genre { get; set; } = "";
